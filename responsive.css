@@ -1,0 +1,35 @@
+@media (max-width:450px) {
+    .row button {
+        width: 37px;
+        height: 35px;
+      }
+      .display #screen {
+        margin-bottom: 0.5em;
+        width: 300px;
+        padding-right:0.1em;
+        border-radius: 5px;
+      }
+      .container {
+        margin-left:0.1em;
+        padding: 10px;
+        border-radius: 5px;
+      }
+}
+@media ( (min-width:450px) and (max-width:524px))
+{
+    .row button {
+        width: 45px;
+        height: 35px;
+      }
+      .display #screen {
+        margin-bottom: 0.5em;
+        width: 344px;
+        padding-right:0.1em;
+        border-radius: 5px;
+      }
+      .container {
+        margin-left:0.1em;
+        padding: 10px;
+        border-radius: 5px;
+      }
+}
